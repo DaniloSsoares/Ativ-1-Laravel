@@ -31,7 +31,7 @@
          <p class="fs-1">Cadastrar -  Agendamento  de Potenciais Clientes</p>
          <p class="fs-4">Sistema utilizado para agendamento de Serviços</p>
          
-         
+        <div class="table-responsive">
          <table class="table table-bordered border-primary bg-primary" >
              <thead>
                    <tr>
@@ -82,6 +82,6 @@
 
        </div>
   </div>
-
+</div>
 </body>
 </html>
